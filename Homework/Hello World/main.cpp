@@ -1,8 +1,7 @@
-/* 
- * File:  Hello World
+/* File:  Hello World
  * Author: Nnamdi Kalu
- *Created on June 25, 2014, 10:57 AM
- *Purpose First Program
+ * Created on June 25, 2014, 10:57 AM
+ * Purpose First Program
  */
 
 //System Level Libraries
@@ -11,9 +10,11 @@
 
 using namespace std;
 
-//System Level Preferences
+//User Libraries
 
-//Global Constants
+//Global Constant
+
+//Function Prototypes
 
 //Execution Begins Here
 
