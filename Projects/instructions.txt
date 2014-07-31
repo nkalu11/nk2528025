@@ -1,0 +1,4 @@
+This game is simply to play. Answer each question abou your life and in the the 
+end you will be given a prediction of your life span
+and even a prediction of the exact day on which you will die. Input numbers or letters when necesary.
+Questions that do not ask for number input will require input of "yes" or "no".

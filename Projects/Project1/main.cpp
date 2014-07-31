@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     short answer2;
     unsigned short answer7;
     
-   srand(time(0));
+    srand(time(0));
     fstream file;
     file.open("gamehints.txt",ios::in);
     string gamehints[5];
